@@ -3,6 +3,5 @@ My To-Do list
    1.write an article.
    2.code.
    3.study books.
-   4.Attend class time
-   5.visit savarma
+   4.Attend class 
    6.apply for remote jobs
